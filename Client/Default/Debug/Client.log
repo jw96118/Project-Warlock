@@ -1,0 +1,194 @@
+﻿  stdafx.cpp
+  Client.cpp
+  WeaponMgr.cpp
+  Weapon.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+  Title.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\title.h(20): warning C4091: 'static ': 변수를 선언하지 않으면 'CTitle::SCROLLDIR' 왼쪽은 무시됩니다.
+  Terrain.cpp
+  StaticCamera.cpp
+  Stage.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\newshambler.h(14): warning C4091: 'static ': 변수를 선언하지 않으면 'CNewshambler::NS_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hellboss.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CHellBoss::HB_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage.cpp(540): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage.cpp(592): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+  SkyBox.cpp
+  TestPlayer.cpp
+  TempObject.cpp
+  StageMini.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\newshambler.h(14): warning C4091: 'static ': 변수를 선언하지 않으면 'CNewshambler::NS_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hellboss.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CHellBoss::HB_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stagemini.cpp(481): warning C4002: 'FAILED' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stagemini.cpp(496): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+d:\projectwarlock(ver4.4.1.17)\client\code\stagemini.cpp(517): warning C4002: 'FAILED' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stagemini.cpp(526): warning C4002: 'FAILED' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stagemini.cpp(562): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+  Stage3.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\newshambler.h(14): warning C4091: 'static ': 변수를 선언하지 않으면 'CNewshambler::NS_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hellboss.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CHellBoss::HB_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage3.cpp(444): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage3.cpp(486): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage3.cpp(506): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage3.cpp(544): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+  Stage2.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\newshambler.h(14): warning C4091: 'static ': 변수를 선언하지 않으면 'CNewshambler::NS_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hellboss.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CHellBoss::HB_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage2.cpp(507): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage2.cpp(585): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+  Staff.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\staff.cpp(75): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Spider.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+  SpellSphere.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\spellsphere.cpp(37): warning C4244: '=': 'Engine::_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Spell.cpp
+  Shop.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\shop.cpp(388): warning C4552: '-': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+  Shock.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\shock.cpp(30): warning C4244: '=': 'Engine::_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Roof.cpp
+  코드를 생성하고 있습니다...
+d:\projectwarlock(ver4.4.1.17)\client\code\stage2.cpp(349): warning C4715: 'CStage2::Ready_UI_Layer': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage3.cpp(291): warning C4715: 'CStage3::Ready_UI_Layer': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\stage.cpp(393): warning C4715: 'CStage::Ready_UI_Layer': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  RocketLauncher.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\rocketlauncher.cpp(75): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Revolver.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\revolver.cpp(59): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Projectile.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+  PlusWall.cpp
+  Player.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.cpp(147): warning C4244: '=': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.cpp(148): warning C4244: '=': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Newshambler.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\newshambler.h(14): warning C4091: 'static ': 변수를 선언하지 않으면 'CNewshambler::NS_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+  MiniObject.cpp
+  MiniMonsterEvent.cpp
+  MiniMonster.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\minimonster.cpp(155): warning C4244: '인수': '_float'에서 'const Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MiniMap.cpp
+  Minigun.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\minigun.cpp(68): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainApp.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\title.h(20): warning C4091: 'static ': 변수를 선언하지 않으면 'CTitle::SCROLLDIR' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\mainapp.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Logo.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\title.h(20): warning C4091: 'static ': 변수를 선언하지 않으면 'CTitle::SCROLLDIR' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+  LoadingScene.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\title.h(20): warning C4091: 'static ': 변수를 선언하지 않으면 'CTitle::SCROLLDIR' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+  Loadingbar.cpp
+  Loading.cpp
+  ITem.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(86): warning C4244: '인수': '_float'에서 'const Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(122): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(130): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(138): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(147): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(155): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(164): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(172): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(180): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\item.cpp(188): warning C4002: 'NULL_CHECK' 매크로의 실제 매개 변수가 너무 많습니다.
+  HUD.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\hud.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+  HellBoss.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\hellboss.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CHellBoss::HB_Pattern' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\hellboss.cpp(29): warning C4244: '=': 'double'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Glacier.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\glacier.cpp(24): warning C4244: '=': 'double'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Gauge.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+  FirstPersonCamera.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+  Explosion.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\explosion.cpp(30): warning C4244: '=': 'Engine::_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EventDoor.cpp
+  EffectMgr.cpp
+  Effect.cpp
+  DynamicCamera.cpp
+  DataMgr.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+  DaggerThrow.cpp
+  Dagger.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+  Crusader.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\crusader.cpp(271): warning C4244: '=': 'double'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\crusader.cpp(275): warning C4244: '=': 'double'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CrossBow3.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\crossbow3.cpp(75): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CrossBow.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\crossbow.cpp(57): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColObject.cpp
+  CollisionMgr.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\collisionmgr.cpp(314): warning C4003: 'NULL_CHECK_RETURN' 매크로의 실제 매개 변수가 부족합니다.
+  ColdStaff.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\coldstaff.cpp(54): warning C4244: '인수': '_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+  BossGauge.cpp
+  Blood.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\blood.cpp(30): warning C4244: '=': 'Engine::_uint'에서 '_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Bat.cpp
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(19): warning C4091: 'static ': 변수를 선언하지 않으면 'CProjectile::PROJECTILE_PATTERN' 왼쪽은 무시됩니다.
+d:\projectwarlock(ver4.4.1.17)\client\code\projectile.h(55): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BackGround.cpp
+  Arrow.cpp
+  코드를 생성하고 있습니다...
+     ../Bin\Client.lib 라이브러리 및 ../Bin\Client.exp 개체를 생성하고 있습니다.
+  Client.vcxproj -> D:\ProjectWarlock(ver4.4.1.17)\Client\Default\../Bin\Client.exe
+  Client.vcxproj -> ../Bin\Client.pdb (Full PDB)
